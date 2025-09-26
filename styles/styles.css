@@ -255,3 +255,17 @@ main .section.highlight {
   margin: 0;
   padding: 40px 0;
 }
+
+
+
+/* predefined styles end here */
+/* custom styles can be added below */
+
+body {
+  background: cyan;
+  color: magenta;
+}
+
+a:hover {
+  color: red;
+}
